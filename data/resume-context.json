@@ -1,0 +1,25 @@
+{
+  "summary": "Write a 2–3 sentence summary highlighting your craft, scope/level, and impact. Avoid buzzwords.",
+  "skills": {
+    "productLeadership": ["Replace with your leadership skills"],
+    "technicalAcumen": ["Replace with your technical skills"],
+    "executiveLeadership": ["Replace with your exec/strategy skills"]
+  },
+  "experience": [
+    {
+      "title": "Role title (e.g., Senior PM)",
+      "company": "Company name",
+      "period": "YYYY — YYYY",
+      "description": "Describe measurable outcomes (KPIs), scope, and systems you improved."
+    }
+  ],
+  "education": [
+    { "degree": "Degree", "school": "School", "year": "YYYY" }
+  ],
+  "certifications": ["Add relevant certifications or remove this array"],
+  "projects": [
+    { "name": "Project Name", "description": "Describe problem, your role, and outcome (metrics)." }
+  ]
+}
+
+

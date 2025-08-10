@@ -1,0 +1,6 @@
+[
+  { "value": "Add metric (e.g., +38%)", "label": "Metric label (e.g., ARR Uplift)", "note": "Optional context (product, team, timeframe)" },
+  { "value": "Add metric", "label": "Metric label", "note": "Optional context" }
+]
+
+

@@ -1,0 +1,20 @@
+{
+  "name": "Replace with your full name",
+  "title": "Add your professional headline (e.g., Human-Centered Systems Leader)",
+  "description": "Write a 1–2 sentence tagline that summarizes your value and focus.",
+  "careerGoal": "Write your Candidate–Market Fit statement. Use the template on /instructions and be specific: role + level, domain, company type, stage/size, and one culture attribute.",
+  "accent": {
+    "gradientFrom": "#004AAD",
+    "gradientTo": "#24CCFF"
+  },
+  "ai": {
+    "enableAma": true,
+    "enableIntroEmail": true
+  },
+  "cta": {
+    "enableIntroButton": true,
+    "introButtonLabel": "Draft a Warm Intro Email"
+  }
+}
+
+
