@@ -1,7 +1,7 @@
 ### Professional Infographic — Next.js template
 
 Minimal, PWA-ready, and editable “professional infographic” page with optional AI AMA and intro-email generator. Built for non-coders: all content lives in JSON files, editable directly in GitHub.
-
+[![Watch the video](https://img.youtube.com/vi/Pgb5YKe7TaE/maxresdefault.jpg)](https://youtu.be/Pgb5YKe7TaE)
 ---
 
 ## Overview
