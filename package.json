@@ -16,7 +16,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.441.0",
-    "next": "^15.0.0",
+    "next": "15.0.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^2.5.2"
@@ -34,5 +34,3 @@
     "typescript": "^5.5.4"
   }
 }
-
-
